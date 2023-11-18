@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Java",
+    "publish_date": "1995",
+    "description": "Java is a widely used object-oriented programming language that is designed to have as few implementation dependencies as possible."
+  },
+  {
+    "name": "C++",
+    "publish_date": "1985",
+    "description": "C++ is a general-purpose programming language that was developed as an extension of the C language, adding support for object-oriented programming."
+  },
+  {
+    "name": "Python",
+    "publish_date": "1991",
+    "description": "Python is a high-level programming language known for its simplicity and readability, and is used in a wide range of applications."
+  },
+  {
+    "name": "C#",
+    "publish_date": "2000",
+    "description": "C# is a modern, general-purpose programming language that is used to develop a variety of applications on the Microsoft .NET platform."
+  },
+  {
+    "name": "Ruby",
+    "publish_date": "1995",
+    "description": "Ruby is a dynamic, object-oriented programming language that is known for its simplicity and productivity."
+  },
+  {
+    "name": "Objective-C",
+    "publish_date": "1983",
+    "description": "Objective-C is a general-purpose, object-oriented programming language that is used primarily for developing software for Apple's macOS and iOS."
+  },
+  {
+    "name": "JavaScript",
+    "publish_date": "1995",
+    "description": "JavaScript is a high-level, interpreted programming language that is primarily used for adding interactivity to web pages."
+  },
+  {
+    "name": "PHP",
+    "publish_date": "1995",
+    "description": "PHP is a server-side scripting language that is used to develop dynamic web applications."
+  },
+  {
+    "name": "Perl",
+    "publish_date": "1987",
+    "description": "Perl is a highly capable, feature-rich programming language that is used in a wide range of applications, including web development and system administration."
+  },
+  {
+    "name": "Swift",
+    "publish_date": "2014",
+    "description": "Swift is a powerful and intuitive programming language that is used to develop applications for Apple's macOS, iOS, watchOS, and tvOS."
+  },
+  {
+    "name": "Rust",
+    "publish_date": "2010",
+    "description": "Rust is a systems programming language that is designed to be safe, concurrent, and fast."
+  },
+  {
+    "name": "Go",
+    "publish_date": "2009",
+    "description": "Go is an open-source programming language that is designed to be efficient, reliable, and scalable."
+  },
+  {
+    "name": "Kotlin",
+    "publish_date": "2011",
+    "description": "Kotlin is a statically typed programming language that is designed to interoperate fully with Java."
+  },
+  {
+    "name": "Scala",
+    "publish_date": "2004",
+    "description": "Scala is a modern, object-oriented programming language that is designed to be concise and expressive."
+  },
+  {
+    "name": "Haskell",
+    "publish_date": "1990",
+    "description": "Haskell is a purely functional programming language that is used primarily in academia and research."
+  }
+]
